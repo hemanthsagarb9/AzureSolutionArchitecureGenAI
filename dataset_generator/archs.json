@@ -1,0 +1,2534 @@
+[
+    {
+        "title": "Cross-tenant secure access to Azure web apps and function apps with private endpoints",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints"
+    },
+    {
+        "title": "Use Azure Firewall to help protect an Azure Kubernetes Service (AKS) cluster",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-firewall"
+    },
+    {
+        "title": "Build the second layer of defense with Microsoft Defender XDR Security services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense"
+    },
+    {
+        "title": "Automotive messaging, data, and analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/automotive/automotive-messaging-data-analytics"
+    },
+    {
+        "title": "Multilayered protection for Azure virtual machine access",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm"
+    },
+    {
+        "title": "Replicate and sync mainframe data to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure"
+    },
+    {
+        "title": "SAS on Azure architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/sas/sas-overview"
+    },
+    {
+        "title": "Extract text from objects using Power Automate and AI Builder",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/extract-object-text"
+    },
+    {
+        "title": "Deploy IBM Maximo Application Suite on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite"
+    },
+    {
+        "title": "Deploy IBM Sterling Order Management on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/ibm/deploy-ibm-sterling-oms"
+    },
+    {
+        "title": "Enable dual-stack network traffic on Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-dual-stack"
+    },
+    {
+        "title": "Manage Microsoft 365 tenant configuration by using Microsoft365DSC and Azure DevOps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/manage-microsoft-365-tenant-configuration-microsoft365dsc-devops"
+    },
+    {
+        "title": "Implement logging and monitoring for Azure OpenAI models",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/log-monitor-azure-openai"
+    },
+    {
+        "title": "Video ingestion and object detection on the edge and in the cloud",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/video-ingestion-object-detection-edge-cloud"
+    },
+    {
+        "title": "Siemens Teamcenter baseline architecture on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/manufacturing/teamcenter-baseline"
+    },
+    {
+        "title": "Blue/green deployments for applications on Azure Spring Apps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/spring-apps/guides/blue-green-spring"
+    },
+    {
+        "title": "Expose Azure Spring Apps through a reverse proxy",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/spring-apps/guides/spring-cloud-reverse-proxy"
+    },
+    {
+        "title": "Use Application Gateway Ingress Controller (AGIC) with a multitenant Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-agic/aks-agic"
+    },
+    {
+        "title": "Integrate Azure and Microsoft Defender XDR security services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure"
+    },
+    {
+        "title": "Microsoft Sentinel automated responses",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-sentinel-automated-response"
+    },
+    {
+        "title": "Build the first layer of defense with Azure Security services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense"
+    },
+    {
+        "title": "Azure Files accessed from on-premises and secured by AD DS in a private network",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/azure-files-on-premises-authentication"
+    },
+    {
+        "title": "Use Microsoft Sentinel to integrate with Microsoft XDR security components",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/security/azure-monitor-integrate-security-components"
+    },
+    {
+        "title": "Map threats to your IT environment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/map-threats-it-environment"
+    },
+    {
+        "title": "Provide custom authentication to Azure OpenAI Service through a gateway",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication"
+    },
+    {
+        "title": "Basic OpenAI end-to-end chat reference architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat"
+    },
+    {
+        "title": "Use deployment scripts to check resource properties",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/devops/deployment-scripts-property-check"
+    },
+    {
+        "title": "Model loan credit risk and default probability",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/loan-credit-risk-analyzer-default-modeling"
+    },
+    {
+        "title": "Use Azure Kubernetes Service to host GPU-based workloads",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks"
+    },
+    {
+        "title": "Automate document processing by using AI Document Intelligence",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-processing-azure-form-recognizer"
+    },
+    {
+        "title": "Use modern data warehouses for small and medium-sized businesses",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/small-medium-data-warehouse"
+    },
+    {
+        "title": "Secure research environment for regulated data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/secure-compute-for-research"
+    },
+    {
+        "title": "Data operations for autonomous vehicle operations",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/automotive/autonomous-vehicle-operations-dataops"
+    },
+    {
+        "title": "Migrate a monolithic application to microservices using domain-driven design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/migrate-monolith"
+    },
+    {
+        "title": "Use Azure AI services to automate document identification, classification, and search",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions"
+    },
+    {
+        "title": "Integration architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/integration/integration-start-here"
+    },
+    {
+        "title": "Core startup stack architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/startups/core-startup-stack"
+    },
+    {
+        "title": "AKS baseline for multiregion clusters",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-multi-region/aks-multi-cluster"
+    },
+    {
+        "title": "Industrial Edge with Azure AI on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/manufacturing/azure-ai-siemens-industrial-edge"
+    },
+    {
+        "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/baseline-aks"
+    },
+    {
+        "title": "Design a medallion lakehouse with Azure Data Factory",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/architecture/azure-data-factory-on-azure-landing-zones-index"
+    },
+    {
+        "title": "Azure Data Factory on Azure landing zones baseline architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/architecture/azure-data-factory-on-azure-landing-zones-baseline"
+    },
+    {
+        "title": "Architectural approaches for cost management and allocation in a multitenant solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/cost-management-allocation"
+    },
+    {
+        "title": "Starter web app for SaaS development",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/saas-starter-web-app"
+    },
+    {
+        "title": "Azure App Service and Azure Functions considerations for multitenancy",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/app-service"
+    },
+    {
+        "title": "Architectural approaches for the deployment and configuration of multitenant solutions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/deployment-configuration"
+    },
+    {
+        "title": "DevSecOps on Azure Kubernetes Service (AKS)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/devsecops/devsecops-on-aks"
+    },
+    {
+        "title": "Azure resource organization in multitenant solutions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/resource-organization"
+    },
+    {
+        "title": "Azure Data Factory enterprise hardened architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/architecture/azure-data-factory-enterprise-hardened"
+    },
+    {
+        "title": "Azure Data Factory mission-critical architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/architecture/azure-data-factory-mission-critical"
+    },
+    {
+        "title": "Refactor an IBM z/OS mainframe coupling facility to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/zos/refactor-zos-coupling-facility"
+    },
+    {
+        "title": "Protect APIs with Application Gateway and API Management",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/api-management/architectures/protect-apis"
+    },
+    {
+        "title": "Architectural approaches for storage and data in multitenant solutions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/storage-data"
+    },
+    {
+        "title": "Azure Stack HCI three-node storage switchless architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-hci-switchless"
+    },
+    {
+        "title": "Azure Stack HCI baseline reference architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-hci-baseline"
+    },
+    {
+        "title": "Use Azure Stack HCI stretched clusters for disaster recovery",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-hci-dr"
+    },
+    {
+        "title": "Considerations when using domain names in a multitenant solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/domain-names"
+    },
+    {
+        "title": "Retry pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/retry"
+    },
+    {
+        "title": "Architectural considerations for a multitenant solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/overview"
+    },
+    {
+        "title": "Deploy SAS Grid 9.4 on Azure NetApp Files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/hpc/netapp-files-sas"
+    },
+    {
+        "title": "Oracle Database with Azure NetApp Files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/file-storage/oracle-azure-netapp-files"
+    },
+    {
+        "title": "Image classification on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/intelligent-apps-image-processing"
+    },
+    {
+        "title": "Considerations for multitenant control planes",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/control-planes"
+    },
+    {
+        "title": "Basic web application",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/basic-web-app"
+    },
+    {
+        "title": "What is the Team Data Science Process?",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-science-process/overview"
+    },
+    {
+        "title": "Baseline highly available zone-redundant web application",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant"
+    },
+    {
+        "title": "Architectural approaches for a multitenant solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/overview"
+    },
+    {
+        "title": "Custom document processing models on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/build-deploy-custom-models"
+    },
+    {
+        "title": "Azure IoT reference architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/iot"
+    },
+    {
+        "title": "Noisy Neighbor antipattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/noisy-neighbor/noisy-neighbor"
+    },
+    {
+        "title": "Extend mainframe applications to Azure by using Verastream Host Integrator",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/extend-mainframe-applications"
+    },
+    {
+        "title": "Run a Windows VM on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/windows-vm"
+    },
+    {
+        "title": "Noisy Neighbor antipattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/noisy-neighbor/noisy-neighbor"
+    },
+    {
+        "title": "Data analytics for automotive test fleets",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/automotive/automotive-telemetry-analytics"
+    },
+    {
+        "title": "Rehost mainframe applications to Azure with Raincode compilers",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/app-modernization/raincode-reference-architecture"
+    },
+    {
+        "title": "Mainframe file and tape backup to Azure using Luminex",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/luminex-mainframe-file-tape-transfer"
+    },
+    {
+        "title": "Run a Linux VM on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/linux-vm"
+    },
+    {
+        "title": "Refactor mainframe architecture by using CloudFrame Renovate",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/cloudframe-renovate-mainframe-refactor"
+    },
+    {
+        "title": "Refactor mainframe applications with Advanced",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/refactor-mainframe-applications-advanced"
+    },
+    {
+        "title": "Use LzLabs Software Defined Mainframe (SDM) in an Azure VM deployment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/lzlabs-software-defined-mainframe-in-azure"
+    },
+    {
+        "title": "General mainframe refactor to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/general-mainframe-refactor"
+    },
+    {
+        "title": "Run HP-UX workloads in Azure with Stromasys Charon-PAR",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/hp-ux-stromasys-charon-par"
+    },
+    {
+        "title": "Micro Focus Enterprise Server on Azure VMs",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/micro-focus-server"
+    },
+    {
+        "title": "IBM System i to Azure using Infinite i",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/ibm-system-i-azure-infinite-i"
+    },
+    {
+        "title": "Rehost IMS workloads to virtual machines by using IMSql",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/imsql-rehost-ims"
+    },
+    {
+        "title": "Refactor IBM z/TPF mainframe systems to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/refactor-ibm-ztpf-mainframe"
+    },
+    {
+        "title": "Rehost a general mainframe on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/mainframe-rehost-architecture-azure"
+    },
+    {
+        "title": "Environment monitoring and supply chain optimization with IoT",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/environment-monitoring-and-supply-chain-optimization"
+    },
+    {
+        "title": "Protect access tokens in a single-page application by using Azure API Management",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/security/secure-single-page-application-authorization"
+    },
+    {
+        "title": "AIX UNIX on-premises to Azure Linux migration",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/unix-migration/migrate-aix-azure-linux"
+    },
+    {
+        "title": "Automate API deployments with APIOps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/automated-api-deployments-apiops"
+    },
+    {
+        "title": "IoT Edge data storage and processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/data-storage-edge"
+    },
+    {
+        "title": "IoT event routing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/event-routing"
+    },
+    {
+        "title": "Move an IoT solution from test to production",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/iot-move-to-production"
+    },
+    {
+        "title": "Multi-tier web application built for HA/DR",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/multi-tier-app-disaster-recovery"
+    },
+    {
+        "title": "Real-time IoT updates",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/real-time-iot-updates-cloud-apps"
+    },
+    {
+        "title": "Plan deployment for updating Windows VMs in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/wsus/"
+    },
+    {
+        "title": "Help secure your Microsoft Teams channel bot and web app behind a firewall",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/teams/securing-bot-teams-channel"
+    },
+    {
+        "title": "Multiregion Business Continuity and Disaster Recovery (BCDR) for Azure Virtual Desktop",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr"
+    },
+    {
+        "title": "Create smart places by using Azure Digital Twins",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/smart-places"
+    },
+    {
+        "title": "Performance and scale guidance for Event Hubs and Azure Functions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/serverless/event-hubs-functions/performance-scale"
+    },
+    {
+        "title": "Integrate Event Hubs with serverless functions on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/serverless/event-hubs-functions/event-hubs-functions"
+    },
+    {
+        "title": "Monitor Azure Functions and Event Hubs",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/serverless/event-hubs-functions/observability"
+    },
+    {
+        "title": "Deploy Esri ArcGIS Pro in Azure Virtual Desktop",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop"
+    },
+    {
+        "title": "Azure Sandbox",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox"
+    },
+    {
+        "title": "Analyze observational patient data by using OHDSI with the OMOP CDM",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/patient-data-ohdsi-omop-cdm"
+    },
+    {
+        "title": "Load-balancing options",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview"
+    },
+    {
+        "title": "Minimal storage \u2013 change feed to replicate data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/idea/minimal-storage-change-feed-replicate-data"
+    },
+    {
+        "title": "Multi-region web application with custom Storage Table replication",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/multi-region-web-app-multi-writes-azure-table"
+    },
+    {
+        "title": "Two-region web application with Table Storage failover",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/multi-region-web-app-azure-table-failover"
+    },
+    {
+        "title": "Tenancy models for a multitenant solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models"
+    },
+    {
+        "title": "Use AI enrichment with image and text processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/ai-search-skillsets"
+    },
+    {
+        "title": "Cost management for Kubernetes",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/cost-management"
+    },
+    {
+        "title": "Application data protection for AKS workloads on Azure NetApp Files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/file-storage/data-protection-kubernetes-astra-azure-netapp-files"
+    },
+    {
+        "title": "Baseline OpenAI end-to-end chat reference architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat"
+    },
+    {
+        "title": "Multiple forests with AD DS, Microsoft Entra ID, and Microsoft Entra Domain Services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/multi-forest-azure-managed"
+    },
+    {
+        "title": "Multiple forests with AD DS and Microsoft Entra ID",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/multi-forest"
+    },
+    {
+        "title": "Secure MLOps solutions with Azure network security",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/network-security-mlops"
+    },
+    {
+        "title": "Design great API developer experiences using API Management and GitHub",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/web/design-api-developer-experiences-management-github"
+    },
+    {
+        "title": "Azure API Management landing zone accelerator",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/app-gateway-internal-api-management-function"
+    },
+    {
+        "title": "Mainframe and midrange Db2 applications accessing Azure SQL databases",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/mainframe-access-azure-databases"
+    },
+    {
+        "title": "Building blocks for autonomous-driving simulation environments",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/automotive/building-blocks-autonomous-driving-simulation-environments"
+    },
+    {
+        "title": "Spaceborne data analysis with Azure Synapse Analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/aerospace/geospatial-processing-analytics"
+    },
+    {
+        "title": "Scalable cloud applications and site reliability engineering (SRE)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/scalable-apps-performance-modeling-site-reliability"
+    },
+    {
+        "title": "Location-based access control for FSI applications",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/financial/location-based-access"
+    },
+    {
+        "title": "Azure Synapse Analytics for landing zones",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/synapse-analytics-landing-zone"
+    },
+    {
+        "title": "Azure Synapse Analytics for landing zones",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/synapse-analytics-landing-zone"
+    },
+    {
+        "title": "Enterprise infrastructure as code using Bicep and Azure Container Registry",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/azure-resource-manager/advanced-templates/enterprise-infrastructure-bicep-container-registry"
+    },
+    {
+        "title": "Automate PDF forms processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-pdf-forms-processing"
+    },
+    {
+        "title": "Data obfuscation on Azure with Delphix and Azure Data Factory",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/guide/data-obfuscation-with-delphix-in-azure-data-factory"
+    },
+    {
+        "title": "Deploy a line-of-business application using Azure App Service Environment v3",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/line-of-business-internal-app-service-environment-v3"
+    },
+    {
+        "title": "Deploy and operate apps with AKS enabled by Arc on Azure Stack HCI or Windows Server",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/aks-hybrid-stack-hci"
+    },
+    {
+        "title": "Use Azure Red Hat OpenShift in the financial services industry",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads"
+    },
+    {
+        "title": "Baseline architecture for AKS on Azure Stack HCI",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/aks-baseline"
+    },
+    {
+        "title": "Network architecture for AKS on Azure Stack HCI",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/aks-network"
+    },
+    {
+        "title": "Run a Capture the Flag game service with CTFd on Azure PaaS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/capture-the-flag-platform-on-azure-paas"
+    },
+    {
+        "title": "Choose between virtual network peering and VPN gateways",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vnet-peering"
+    },
+    {
+        "title": "Migrate AIX workloads to Azure with Skytap",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/migrate-aix-workloads-to-azure-with-skytap"
+    },
+    {
+        "title": "End-to-end governance in Azure when using CI/CD",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/governance/end-to-end-governance-in-azure"
+    },
+    {
+        "title": "Integrate on-premises Active Directory domains with Microsoft Entra ID",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/azure-ad"
+    },
+    {
+        "title": "Near real-time lakehouse data processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/real-time-lakehouse-data-processing"
+    },
+    {
+        "title": "Migrate cloud workloads across security tenants",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/migrate-cloud-workloads-across-security-tenants"
+    },
+    {
+        "title": "Stream processing with fully managed open-source data engines",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/open-source-data-engine-stream-processing"
+    },
+    {
+        "title": "Create an AD DS resource forest in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adds-forest"
+    },
+    {
+        "title": "Migrate IBM i series to Azure with Skytap",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/migrate-ibm-i-series-to-azure-with-skytap"
+    },
+    {
+        "title": "Donor-patient matching on Azure Machine Learning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/machine-learning/donor-patient-cross-match"
+    },
+    {
+        "title": "Integrate IBM mainframe and midrange message queues with Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/integrate-ibm-message-queues-azure"
+    },
+    {
+        "title": "Re-engineer mainframe batch applications on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/reengineer-mainframe-batch-apps-azure"
+    },
+    {
+        "title": "DevSecOps for infrastructure as code (IaC)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code"
+    },
+    {
+        "title": "Protect backend APIs by using Azure API Management and Azure AD B2C",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/protect-backend-apis-azure-management"
+    },
+    {
+        "title": "Automate scheduling and dispatching for semiconductor manufacturing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/manufacturing/fab-scheduling-azure"
+    },
+    {
+        "title": "Deploy an Azure Arc-enabled SQL managed instance for disaster recovery",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/arc-sql-managed-instance-disaster-recovery"
+    },
+    {
+        "title": "Data integration with Logic Apps and SQL Server",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/logic-apps-data-integration"
+    },
+    {
+        "title": "Quantum computing integration with classical apps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/quantum/quantum-computing-integration-with-classical-apps"
+    },
+    {
+        "title": "Azure Private Link in a hub-and-spoke network",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-hub-spoke-network"
+    },
+    {
+        "title": "Elastic Enterprise Search on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/elastic-workplace-search"
+    },
+    {
+        "title": "Run CAE simulations for manufacturing on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hpc/hpc-run-cae-simulations"
+    },
+    {
+        "title": "BCDR for Azure Data Factory and Azure Synapse Analytics pipelines",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/pipelines-disaster-recovery"
+    },
+    {
+        "title": "Many models machine learning at scale with Azure Machine Learning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-machine-learning"
+    },
+    {
+        "title": "Many models machine learning (ML) at scale in Azure with Spark",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-spark"
+    },
+    {
+        "title": "Use AI to forecast customer orders",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/next-order-forecasting"
+    },
+    {
+        "title": "Migrate your IoT solutions to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/iot/migrate-iot-solution-azure"
+    },
+    {
+        "title": "Automated guided vehicles fleet control",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/automated-guided-vehicles-fleet-control"
+    },
+    {
+        "title": "Efficient Docker image deployment for low-bandwidth connectivity",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/efficient-docker-image-deployment"
+    },
+    {
+        "title": "Migrate mainframe data tier to Azure with mLogica LIBER*IRIS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-data-platform"
+    },
+    {
+        "title": "Enterprise file shares with disaster recovery",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/file-storage/enterprise-file-shares-disaster-recovery"
+    },
+    {
+        "title": "Apache Hadoop Distributed File System (HDFS) migration to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/hadoop/apache-hdfs-migration"
+    },
+    {
+        "title": "Azure Virtual Desktop for the enterprise",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop"
+    },
+    {
+        "title": "Centralized app configuration and security",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/appconfig-key-vault"
+    },
+    {
+        "title": "Create an Autonomous Vehicle Operations (AVOps) solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/avops-architecture"
+    },
+    {
+        "title": "Deploy AD DS in an Azure virtual network",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/identity/adds-extend-domain"
+    },
+    {
+        "title": "Batch integration with Azure Data Factory for Azure Digital Twins",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/batch-integration-azure-data-factory-digital-twins"
+    },
+    {
+        "title": "End-to-end computer vision at the edge for manufacturing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/ai/end-to-end-smart-factory"
+    },
+    {
+        "title": "Spoke-to-spoke networking",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/spoke-to-spoke-networking"
+    },
+    {
+        "title": "Power Automate deployment at scale",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/power-automate/power-automate"
+    },
+    {
+        "title": "Build real-time monitoring and observable systems for media",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media"
+    },
+    {
+        "title": "Consumer health portal on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/health-portal"
+    },
+    {
+        "title": "Move archive data from mainframe systems to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/move-archive-data-mainframes"
+    },
+    {
+        "title": "Zero-trust network for web applications with Azure Firewall and Application Gateway",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall"
+    },
+    {
+        "title": "High availability for multitier AKS applications",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-high-availability"
+    },
+    {
+        "title": "GitOps for Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks"
+    },
+    {
+        "title": "Use Azure Front Door to secure AKS workloads",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door"
+    },
+    {
+        "title": "Kubernetes monitoring and logging",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/monitoring"
+    },
+    {
+        "title": "Use Azure NetApp Files to deploy IBM Power in Skytap on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/deploy-ibm-power-workloads"
+    },
+    {
+        "title": "Resilient identity and access management with Microsoft Entra ID",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/resilience/resilience-overview"
+    },
+    {
+        "title": "Analyze operational data on MongoDB Atlas using Azure Synapse Analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/azure-synapse-analytics-integrate-mongodb-atlas"
+    },
+    {
+        "title": "Securely managed web applications",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/fully-managed-secure-apps"
+    },
+    {
+        "title": "Compare Java application hosting options on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/service-for-java-comparison"
+    },
+    {
+        "title": "Leader Election pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/leader-election"
+    },
+    {
+        "title": "Use Azure OpenAI to process podcast audio files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/process-audio-files"
+    },
+    {
+        "title": "Automate infrastructure reconfiguration by using Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/networking/automation-application-gateway"
+    },
+    {
+        "title": "Employee retention with Databricks and Kubernetes",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/employee-retention-databricks-kubernetes"
+    },
+    {
+        "title": "Manage virtual machine compliance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/security/virtual-machine-compliance"
+    },
+    {
+        "title": "Enterprise-grade logging on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/logging/enterprise-grade-logging"
+    },
+    {
+        "title": "Conditional Access design principles and dependencies",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/security/conditional-access-design"
+    },
+    {
+        "title": "Conditional Access architecture and personas",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/security/conditional-access-architecture"
+    },
+    {
+        "title": "Hub-spoke network topology with Azure Virtual WAN",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke-vwan-architecture"
+    },
+    {
+        "title": "Migrate a web app by using Azure API Management",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/apim-api-scenario"
+    },
+    {
+        "title": "Azure Well-Architected Framework review of an Azure NAT gateway",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/well-architected-network-address-translation-gateway"
+    },
+    {
+        "title": "Deploy a DFS Namespaces failover cluster",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/dfs-failover-cluster-vms"
+    },
+    {
+        "title": "Real-time collaboration with Azure and Microsoft 365",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/collaboration-microsoft-365"
+    },
+    {
+        "title": "IoT device connectivity for healthcare facilities",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/idea/healthcare-network"
+    },
+    {
+        "title": "Low-latency network connections for industry",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/idea/low-latency-network"
+    },
+    {
+        "title": "Video capture and analytics for retail",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/idea/video-analytics"
+    },
+    {
+        "title": "CI/CD for AKS apps with Azure Pipelines",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-azure-pipelines"
+    },
+    {
+        "title": "Azure OpenAI chat baseline architecture in an Azure landing zone",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone"
+    },
+    {
+        "title": "Access Azure OpenAI and other language models through a gateway",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide"
+    },
+    {
+        "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend"
+    },
+    {
+        "title": "Valet Key pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/valet-key"
+    },
+    {
+        "title": "Claim-Check pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/claim-check"
+    },
+    {
+        "title": "Use HDInsight and Delta Lake to manage event data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/hdinsight-kafka-spark-delta-lake"
+    },
+    {
+        "title": "Use a split-brain DNS configuration to host a web app in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/networking/split-brain-dns"
+    },
+    {
+        "title": "Replicate mainframe and midrange data to Azure by using RDRS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-rdrs"
+    },
+    {
+        "title": "Preparation",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase"
+    },
+    {
+        "title": "LLM end to end evaluation",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase"
+    },
+    {
+        "title": "Generate embeddings",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generating-embeddings"
+    },
+    {
+        "title": "Information retrieval",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval"
+    },
+    {
+        "title": "Designing and developing a RAG solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide"
+    },
+    {
+        "title": "Chunk enrichment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase"
+    },
+    {
+        "title": "Chunking",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase"
+    },
+    {
+        "title": "Reliable web app pattern for .NET - Plan the implementation",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/dotnet/plan-implementation"
+    },
+    {
+        "title": "Reliable web app pattern for .NET - Apply the pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/dotnet/apply-pattern"
+    },
+    {
+        "title": "Reliable web app pattern for Java - Plan the implementation",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/java/plan-implementation"
+    },
+    {
+        "title": "Reliable web app pattern for Java - Apply the pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/java/apply-pattern"
+    },
+    {
+        "title": "Pipes and Filters pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters"
+    },
+    {
+        "title": "IBM z/OS mainframe migration with Avanade AMT",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/avanade-amt-zos-migration"
+    },
+    {
+        "title": "Supply chain management with Kaleido Blockchain as a Service powered by Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/blockchain/blockchain-service"
+    },
+    {
+        "title": "Unisys mainframe migration with Avanade AMT",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/migration/unisys-mainframe-migration"
+    },
+    {
+        "title": "Replatform AIX workloads on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/replatform-aix-workloads"
+    },
+    {
+        "title": "Azure DNS Private Resolver",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/azure-dns-private-resolver"
+    },
+    {
+        "title": "Certificate lifecycle management on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/certificate-lifecycle/"
+    },
+    {
+        "title": "Microsoft Fabric deployment patterns",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/analytics/architecture/fabric-deployment-patterns"
+    },
+    {
+        "title": "Mainframe file replication and sync on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/mainframe-azure-file-replication"
+    },
+    {
+        "title": "Geode pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/geodes"
+    },
+    {
+        "title": "Computer forensics chain of custody in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/forensics/"
+    },
+    {
+        "title": "Implement risk prediction for surgeries",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/risk-stratification-surgery"
+    },
+    {
+        "title": "Content Delivery Network analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/content-delivery-network-azure-data-explorer"
+    },
+    {
+        "title": "Big data analytics with Azure Data Explorer",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/big-data-azure-data-explorer"
+    },
+    {
+        "title": "Homomorphic encryption with SEAL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/homomorphic-encryption-seal"
+    },
+    {
+        "title": "IoT analytics with Azure Data Explorer",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/iot-azure-data-explorer"
+    },
+    {
+        "title": "IoT analytics with Azure Data Explorer",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/iot-azure-data-explorer"
+    },
+    {
+        "title": "IoT solution architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/devices-platform-application"
+    },
+    {
+        "title": "Predict hospital readmissions with traditional and automated machine learning techniques",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/predict-hospital-readmissions-machine-learning"
+    },
+    {
+        "title": "Azure hybrid options",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/hybrid-considerations"
+    },
+    {
+        "title": "Health data consortium on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/azure-health-data-consortium"
+    },
+    {
+        "title": "SQL Server on Azure Virtual Machines with Azure NetApp Files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/file-storage/sql-server-azure-netapp-files"
+    },
+    {
+        "title": "Predict student attrition",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/student-attrition-prediction"
+    },
+    {
+        "title": "Intelligent product search engine for e-commerce",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/ecommerce-search"
+    },
+    {
+        "title": "Index file content and metadata by using Azure AI Search",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/search-blob-metadata"
+    },
+    {
+        "title": "Host a Murex MX.3 workload on Azure using Oracle",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/murex-mx3-azure"
+    },
+    {
+        "title": "Deploy and run SWIFT Alliance Remote Gateway with Alliance Connect Virtual on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/swift-alliance-remote-gateway-with-alliance-connect-virtual-gateway"
+    },
+    {
+        "title": "Azure Governance Visualizer Accelerator guidance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/landing-zones/azure-governance-visualizer-accelerator"
+    },
+    {
+        "title": "IPv6 hub-spoke network topology",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv6-architecture"
+    },
+    {
+        "title": "Host a Murex MX.3 workload on Azure using SQL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/murex-mx3-sql"
+    },
+    {
+        "title": "Gridwich CI/CD pipeline",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-cicd"
+    },
+    {
+        "title": "Gridwich project naming and namespaces",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-project-names"
+    },
+    {
+        "title": "Logging in Gridwich",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-logging"
+    },
+    {
+        "title": "Gridwich saga orchestration",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-saga-orchestration"
+    },
+    {
+        "title": "Gridwich clean monolith architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-clean-monolith"
+    },
+    {
+        "title": "Gridwich operations for Azure Storage",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-storage-service"
+    },
+    {
+        "title": "Gridwich cloud media system",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-architecture"
+    },
+    {
+        "title": "Gridwich request-response messages",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/media-services/gridwich-message-formats"
+    },
+    {
+        "title": "Quarantine pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/quarantine"
+    },
+    {
+        "title": "Azure Virtual Machines baseline architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/virtual-machines/baseline"
+    },
+    {
+        "title": "Use Private Link to access applications on networks with overlapping address spaces",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-ip-constraints"
+    },
+    {
+        "title": "Apache NiFi on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/azure-nifi"
+    },
+    {
+        "title": "Helm-based deployments for Apache NiFi",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/data/helm-deployments-apache-nifi"
+    },
+    {
+        "title": "Logical data warehouse with Azure Synapse serverless SQL pools",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/logical-data-warehouse"
+    },
+    {
+        "title": "Access an Azure Kubernetes Service (AKS) API server",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/security/access-azure-kubernetes-service-cluster-api-server"
+    },
+    {
+        "title": "Azure enterprise cloud file share",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-files-private"
+    },
+    {
+        "title": "Azure Kubernetes in event stream processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/serverless-event-processing-aks"
+    },
+    {
+        "title": "Firewall and Application Gateway for virtual networks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gateway/firewall-application-gateway"
+    },
+    {
+        "title": "Geospatial analysis for the telecommunications industry",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/geospatial-analysis-telecommunications-industry"
+    },
+    {
+        "title": "Serverless event stream processing in a VNet with private endpoints",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/serverless-event-processing-private-link"
+    },
+    {
+        "title": "Hybrid file share with disaster recovery for remote and local branch workers",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/hybrid-file-share-dr-remote-local-branch-workers"
+    },
+    {
+        "title": "Transactional Outbox pattern with Azure Cosmos DB",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/guide/transactional-outbox-cosmos"
+    },
+    {
+        "title": "Run SAP HANA on Azure (Large Instances)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances"
+    },
+    {
+        "title": "Preserve the original HTTP host name between a reverse proxy and its back-end web application",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/host-name-preservation"
+    },
+    {
+        "title": "SDWAN integration with Azure hub-and-spoke network topologies",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies"
+    },
+    {
+        "title": "Azure Virtual Machines baseline architecture in an Azure landing zone",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/virtual-machines/baseline-landing-zone"
+    },
+    {
+        "title": "Kubernetes workload identity and access",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/workload-identity"
+    },
+    {
+        "title": "Augment security, observability, and analytics by using Microsoft Sentinel, Azure Monitor, and Azure Data Explorer",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/monitor-azure-data-explorer"
+    },
+    {
+        "title": "Map requests to tenants in a multitenant solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/map-requests"
+    },
+    {
+        "title": "Deployment Stamps pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp"
+    },
+    {
+        "title": "Rehost IMS DC and IMS DB on Azure by using Raincode IMSql",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/rehost-ims-raincode-imsql"
+    },
+    {
+        "title": "IBM z/OS online transaction processing on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/ibm-zos-online-transaction-processing-azure"
+    },
+    {
+        "title": "Mainframe and midrange data replication to Azure using Qlik",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/mainframe-midrange-data-replication-azure-qlik"
+    },
+    {
+        "title": "Rehost Adabas & Natural applications in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/rehost-adabas-software-ag"
+    },
+    {
+        "title": "Unisys Dorado mainframe migration to Azure with Astadia and Micro Focus",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/migrate-unisys-dorado-mainframe-apps-with-astadia-micro-focus"
+    },
+    {
+        "title": "Refactor mainframe computer systems that run Adabas & Natural",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/refactor-adabas-aks"
+    },
+    {
+        "title": "SAP workload automation using SUSE on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/sap-workload-automation-suse"
+    },
+    {
+        "title": "Azure Network Virtual Appliances Firewall architecture overview",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-virtual-appliances-architecture"
+    },
+    {
+        "title": "SMA OpCon in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/sma-opcon-azure"
+    },
+    {
+        "title": "Rehost mainframe applications by using NTT DATA UniKix",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/rehost-mainframe-ntt-data-unikix"
+    },
+    {
+        "title": "Enable real-time sync of MongoDB Atlas data changes to Azure Synapse Analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/sync-mongodb-atlas-azure-synapse-analytics"
+    },
+    {
+        "title": "Mainframe workload migration proof of concept",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/mainframe/mainframe-proof-of-concept"
+    },
+    {
+        "title": "Use Azure Batch to run Financial Service Industry (FSI) workloads",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/batch/fsi-workloads-using-batch"
+    },
+    {
+        "title": "Unisys ClearPath MCP virtualization on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/unisys-clearpath-forward-mainframe-rehost"
+    },
+    {
+        "title": "Apache HBase migration to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/hadoop/apache-hbase-migration"
+    },
+    {
+        "title": "Apache Kafka migration to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/hadoop/apache-kafka-migration"
+    },
+    {
+        "title": "Apache Sqoop migration to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/hadoop/apache-sqoop-migration"
+    },
+    {
+        "title": "Software-defined vehicle DevOps toolchain",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/automotive/software-defined-vehicle-reference-architecture"
+    },
+    {
+        "title": "Architecture of an AKS regulated cluster for PCI-DSS 3.2.1 (Part 2 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-ra-code-assets"
+    },
+    {
+        "title": "Real-time analytics on data with Azure Service Bus and Azure Data Explorer",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/analytics-service-bus"
+    },
+    {
+        "title": "SWIFT Alliance Connect Virtual on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/swift-on-azure-vsrx"
+    },
+    {
+        "title": "Unisys ClearPath Forward OS 2200 enterprise server virtualization on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/mainframe/virtualization-of-unisys-clearpath-forward-os-2200-enterprise-server-on-azure"
+    },
+    {
+        "title": "Ingest FAA SWIM content to analyze flight data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/ingest-faa-swim-analyze-flight-data"
+    },
+    {
+        "title": "Windows 365 Azure network connection",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/virtual-desktop/windows-365-azure-network-connection"
+    },
+    {
+        "title": "Automotive connected fleets",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/automotive/automotive-connected-fleets"
+    },
+    {
+        "title": "Messaging Bridge pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/messaging-bridge"
+    },
+    {
+        "title": "Extend mainframes to digital channels by using standards-based REST APIs",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/extend-mainframes-to-digital-channels-by-using-standards-based-rest-apis"
+    },
+    {
+        "title": "Analyze call center recordings using text analytics for health and Azure OpenAI Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/healthcare/analyze-recordings-text-analytics-azure-openai"
+    },
+    {
+        "title": "Hybrid Cross-Cluster Scaling with Azure Arc for the workloads deployed on Azure Stack HCI",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-cross-cluster-scaling"
+    },
+    {
+        "title": "Magento e-commerce platform in Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/magento/magento-azure"
+    },
+    {
+        "title": "Azure Health Data Services architecture guide",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/data/azure-health-data-services"
+    },
+    {
+        "title": "Extract and analyze call center data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics"
+    },
+    {
+        "title": "Enterprise deployment using Azure App Service Environment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-standard-deployment"
+    },
+    {
+        "title": "High availability enterprise deployment using App Service Environment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-high-availability-deployment"
+    },
+    {
+        "title": "Mission-critical baseline with App Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/networking/global-web-applications/mission-critical-app-service"
+    },
+    {
+        "title": "Run SAP HANA for Linux virtual machines in a scale-up architecture on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/sap/run-sap-hana-for-linux-virtual-machines"
+    },
+    {
+        "title": "Run SAP NetWeaver in Windows on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/sap/sap-netweaver"
+    },
+    {
+        "title": "Ingest and store medical data in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/medical-data-ingestion"
+    },
+    {
+        "title": "SAP S/4HANA in Linux on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/sap/sap-s4hana"
+    },
+    {
+        "title": "SAP deployment on Azure using an Oracle database",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/sap-production"
+    },
+    {
+        "title": "Run SAP BW/4HANA with Linux virtual machines on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/sap/run-sap-bw4hana-with-linux-virtual-machines"
+    },
+    {
+        "title": "Prevent IPv4 exhaustion in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv4-exhaustion"
+    },
+    {
+        "title": "SAP landscape architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/sap/sap-whole-landscape"
+    },
+    {
+        "title": "Inbound and outbound internet connections for SAP on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/sap/sap-internet-inbound-outbound"
+    },
+    {
+        "title": "WordPress on virtual machines",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-iaas"
+    },
+    {
+        "title": "WordPress on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/infrastructure/wordpress-overview"
+    },
+    {
+        "title": "WordPress on App Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-app-service"
+    },
+    {
+        "title": "WordPress on Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-container"
+    },
+    {
+        "title": "Deploy web apps by using zone-redundant Azure Red Hat OpenShift",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aro/ha-zr-aro"
+    },
+    {
+        "title": "Deploy Azure Spring Apps to multiple regions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/spring-apps/architectures/spring-apps-multi-region"
+    },
+    {
+        "title": "Azure Spring Apps baseline architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/spring-apps/architectures/spring-apps-multi-zone"
+    },
+    {
+        "title": "Azure Spring Apps integrated with landing zones",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/spring-apps/architectures/spring-apps-landing-zone"
+    },
+    {
+        "title": "Offline audio dubbing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/media/offline-audio-dubbing"
+    },
+    {
+        "title": "Monitor a distributed system by using Application Insights and OpenCensus",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/devops/monitor-with-opencensus-application-insights"
+    },
+    {
+        "title": "Implement Azure DevOps for mainframe applications that use IBM Z and Cloud Modernization Stack",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/devops-mainframe-ibm-z"
+    },
+    {
+        "title": "Create a 5G split core shop floor network",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/private-network-split-core-manufacture"
+    },
+    {
+        "title": "Modernize mainframe and midrange data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/modernize-mainframe-data-to-azure"
+    },
+    {
+        "title": "Implement TIC 3.0 compliance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/trusted-internet-connections"
+    },
+    {
+        "title": "Use Teamcenter PLM with Azure NetApp Files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/manufacturing/teamcenter-plm-netapp-files"
+    },
+    {
+        "title": "Blue-green deployment of AKS clusters",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/blue-green-deployment-for-aks"
+    },
+    {
+        "title": "Gatekeeper pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/gatekeeper"
+    },
+    {
+        "title": "Contextualize data by using graph in SQL Database",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/data-contextualization-based-on-azure-sql-graph"
+    },
+    {
+        "title": "Modernize mainframe workloads by using Model9",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/mainframe-modernization-model9"
+    },
+    {
+        "title": "Massive-scale VWAN architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/massive-scale-azure-architecture"
+    },
+    {
+        "title": "Integrate Teradata VantageCloud with Azure Data Factory",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/guide/teradata-vantage-data-factory"
+    },
+    {
+        "title": "Citizen AI with Power Platform",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/citizen-ai-power-platform"
+    },
+    {
+        "title": "Build an architecture with real-time machine learning inference and low-code web application UI on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/deploy-real-time-machine-learning-model-application-ui"
+    },
+    {
+        "title": "Replicate mainframe data by using Precisely Connect",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect"
+    },
+    {
+        "title": "Single region scenario - Private Link and DNS in Azure Virtual WAN",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-single-region-workload"
+    },
+    {
+        "title": "Virtual hub extension pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-virtual-hub-extension-pattern"
+    },
+    {
+        "title": "Guide to Private Link and DNS in Azure Virtual WAN",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-guide"
+    },
+    {
+        "title": "Enable machine learning inference on an Azure IoT Edge device",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/iot/machine-learning-inference-iot-edge"
+    },
+    {
+        "title": "SWIFT Alliance Messaging Hub (AMH) with Alliance Connect Virtual",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/swift-alliance-messaging-hub-vsrx"
+    },
+    {
+        "title": "SWIFT Alliance Cloud on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/swift-alliance-cloud-on-azure"
+    },
+    {
+        "title": "SWIFT Alliance Access with Alliance Connect Virtual on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/finance/swift-alliance-access-vsrx-on-azure"
+    },
+    {
+        "title": "Subscription vending implementation guidance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/landing-zones/subscription-vending"
+    },
+    {
+        "title": "Big data analytics on confidential computing with Apache Spark on Kubernetes",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/confidential/data-analytics-containers-spark-kubernetes-azure-sql"
+    },
+    {
+        "title": "Choose an Azure compute service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree"
+    },
+    {
+        "title": "SAP on Azure architecture center",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-overview"
+    },
+    {
+        "title": "Capacity planning considerations for Azure VMware Solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-capacity"
+    },
+    {
+        "title": "Networking considerations for Azure VMware Solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-networking"
+    },
+    {
+        "title": "Landing zone considerations for Azure VMware Solution",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-vmware-solution-foundation-landing-zone"
+    },
+    {
+        "title": "Running Windows containers on AKS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/windows-containers-on-aks"
+    },
+    {
+        "title": "Kubernetes node and node pool management",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/node-pools"
+    },
+    {
+        "title": "How to build workloads on spot virtual machines",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/spot/spot-eviction"
+    },
+    {
+        "title": "Secure network access to Kubernetes",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/private-clusters"
+    },
+    {
+        "title": "Lift and shift to containers with Azure App Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/migrate-existing-applications-to-container-apps"
+    },
+    {
+        "title": "Azure Kubernetes Service (AKS) considerations for multitenancy",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks"
+    },
+    {
+        "title": "Enterprise business intelligence",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/enterprise-bi-synapse"
+    },
+    {
+        "title": "Extend on-premises AD FS to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adfs"
+    },
+    {
+        "title": "Connect an on-premises network to Azure using ExpressRoute",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover"
+    },
+    {
+        "title": "Moodle deployment with Azure NetApp Files",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/file-storage/moodle-azure-netapp-files"
+    },
+    {
+        "title": "Improved-security access to multitenant web apps from an on-premises network",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/networking/access-multitenant-web-app-from-on-premises"
+    },
+    {
+        "title": "Deploy AKS and API Management with mTLS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/mutual-tls-deploy-aks-api-management"
+    },
+    {
+        "title": "Mission-critical baseline architecture in an Azure landing zone",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone"
+    },
+    {
+        "title": "Enhanced-security hybrid messaging infrastructure \u2014 desktop-client access",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/secure-hybrid-messaging-client"
+    },
+    {
+        "title": "Enhanced-security hybrid messaging infrastructure \u2014 web access",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/secure-hybrid-messaging-web"
+    },
+    {
+        "title": "Enhanced-security hybrid messaging infrastructure \u2014 mobile access",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/secure-hybrid-messaging-mobile"
+    },
+    {
+        "title": "Energy supply optimization",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/energy-supply-optimization"
+    },
+    {
+        "title": "Forecast energy and power demand with machine learning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/forecast-energy-power-demand"
+    },
+    {
+        "title": "Knowledge mining for customer support and feedback analysis",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/customer-feedback-and-analytics"
+    },
+    {
+        "title": "Customer churn prediction using real-time analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/customer-churn-prediction"
+    },
+    {
+        "title": "Measure Azure app sustainability by using the SCI score",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/measure-azure-app-sustainability-sci-score"
+    },
+    {
+        "title": "Hybrid file services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-file-services"
+    },
+    {
+        "title": "Back up files and applications on Azure Stack Hub",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-backup"
+    },
+    {
+        "title": "Azure Arc hybrid management and deployment for Kubernetes clusters",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/arc-hybrid-kubernetes"
+    },
+    {
+        "title": "Enterprise integration using message broker and events",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/queues-events"
+    },
+    {
+        "title": "Modern analytics architecture with Azure Databricks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture"
+    },
+    {
+        "title": "Data warehousing and analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse"
+    },
+    {
+        "title": "Batch scoring of Spark models on Azure Databricks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/batch-scoring-databricks"
+    },
+    {
+        "title": "Highly available multi-region web application",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/multi-region"
+    },
+    {
+        "title": "Eventual consistency between multiple Power Apps instances",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/power-platform/eventual-consistency"
+    },
+    {
+        "title": "Analyze video content with Computer Vision and Azure Machine Learning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/analyze-video-computer-vision-machine-learning"
+    },
+    {
+        "title": "IoT application-to-device commands",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/cloud-to-device"
+    },
+    {
+        "title": "Quality assurance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/quality-assurance"
+    },
+    {
+        "title": "Real-time fraud detection",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/fraud-detection"
+    },
+    {
+        "title": "SKU optimization for consumer brands",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/retail/sku-optimization-solution-guide"
+    },
+    {
+        "title": "Implement an open-source jump server solution on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/apache-guacamole"
+    },
+    {
+        "title": "Predict patient length of stay and flow",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/predict-patient-length-of-stay"
+    },
+    {
+        "title": "Remote patient monitoring",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/digital-health/remote-patient-monitoring"
+    },
+    {
+        "title": "Industrial IoT visibility patterns",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/iiot-patterns/iiot-visibility-patterns"
+    },
+    {
+        "title": "DR for Azure Data Platform - Architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture"
+    },
+    {
+        "title": "DR for Azure Data Platform - Summary",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-summary"
+    },
+    {
+        "title": "DR for Azure Data Platform - Deploy this scenario",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-deploy-this-scenario"
+    },
+    {
+        "title": "DR for Azure Data Platform - Scenario details",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-scenario-details"
+    },
+    {
+        "title": "DR for Azure Data Platform - Recommendations",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-recommendations"
+    },
+    {
+        "title": "DR for Azure Data Platform - Overview",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-overview"
+    },
+    {
+        "title": "CI/CD for AKS apps with GitHub Actions and GitFlow",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-cicd-github-actions-and-gitops"
+    },
+    {
+        "title": "Clinical insights with Microsoft Cloud for Healthcare",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mch-health/medical-data-insights"
+    },
+    {
+        "title": "Intelligent apps using Azure Database for MySQL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/idea/intelligent-apps-using-azure-database-for-mysql"
+    },
+    {
+        "title": "Facilities management powered by mixed reality and IoT",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/facilities-management-powered-by-mixed-reality-and-iot"
+    },
+    {
+        "title": "Decentralized trust between banks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/decentralized-trust"
+    },
+    {
+        "title": "Scale and manage IoT solutions with deployment stamps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/application-stamps"
+    },
+    {
+        "title": "Use Azure file shares in a hybrid environment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-file-share"
+    },
+    {
+        "title": "Personalized offers",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/personalized-offers"
+    },
+    {
+        "title": "Azure security solutions for AWS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/aws/aws-azure-security-solutions"
+    },
+    {
+        "title": "Implement a secure hybrid network",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz"
+    },
+    {
+        "title": "Multi-region load balancing with Traffic Manager, Azure Firewall, and Application Gateway",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/high-availability/reference-architecture-traffic-manager-application-gateway"
+    },
+    {
+        "title": "Custom business processes",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/custom-business-processes"
+    },
+    {
+        "title": "Connect an on-premises network to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/"
+    },
+    {
+        "title": "Build a CI/CD pipeline for microservices on Kubernetes with Azure DevOps and Helm",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/ci-cd-kubernetes"
+    },
+    {
+        "title": "Interactive price analytics using transaction history data",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/interactive-price-analytics"
+    },
+    {
+        "title": "Gateway Routing pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-routing"
+    },
+    {
+        "title": "Security architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/security/security-start-here"
+    },
+    {
+        "title": "Hybrid availability and performance monitoring",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-perf-monitoring"
+    },
+    {
+        "title": "Analytics end-to-end with Azure Synapse",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end"
+    },
+    {
+        "title": "Enterprise monitoring with Azure Monitor",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/monitoring/enterprise-monitoring"
+    },
+    {
+        "title": "Orchestrate MLOps by using Azure Databricks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/orchestrate-mlops-azure-databricks"
+    },
+    {
+        "title": "Virtual health on Microsoft Cloud for Healthcare",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mch-health/virtual-health-mch"
+    },
+    {
+        "title": "Microsoft Entra IDaaS in security operations",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aadsec/azure-ad-security"
+    },
+    {
+        "title": "3D video rendering",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/video-rendering"
+    },
+    {
+        "title": "Monitor a microservices application in AKS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/logging-monitoring"
+    },
+    {
+        "title": "Mission-critical baseline architecture on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-intro"
+    },
+    {
+        "title": "Scale AI and machine learning initiatives in regulated industries",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/scale-ai-and-machine-learning-in-regulated-industries"
+    },
+    {
+        "title": "Hybrid relay connection in Azure and Azure Stack Hub",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/hybrid-relay-connection"
+    },
+    {
+        "title": "Large-scale custom natural language processing (NLP)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/large-scale-custom-natural-language-processing"
+    },
+    {
+        "title": "Share a location in real time by using low-cost serverless Azure services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/signalr/"
+    },
+    {
+        "title": "Mission-critical baseline architecture with network controls",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-network-architecture"
+    },
+    {
+        "title": "Analytics architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/analytics-start-here"
+    },
+    {
+        "title": "Optimize inventory and forecast demand with Power Platform and Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/optimize-inventory-forecast-demand"
+    },
+    {
+        "title": "Troubleshoot a hybrid VPN connection",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/troubleshoot-vpn"
+    },
+    {
+        "title": "Event Sourcing pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing"
+    },
+    {
+        "title": "Index Table pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/index-table"
+    },
+    {
+        "title": "Saga distributed transactions pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga"
+    },
+    {
+        "title": "Microservices architecture on Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices"
+    },
+    {
+        "title": "Priority Queue pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/priority-queue"
+    },
+    {
+        "title": "Choose a bare-metal Kubernetes at the edge platform option",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/choose-bare-metal-kubernetes"
+    },
+    {
+        "title": "Stream processing with Azure Databricks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-databricks"
+    },
+    {
+        "title": "Integrate on-premises AD with Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/"
+    },
+    {
+        "title": "Competing Consumers pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/competing-consumers"
+    },
+    {
+        "title": "Scheduler Agent Supervisor pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor"
+    },
+    {
+        "title": "Automated enterprise BI",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/enterprise-bi-adf"
+    },
+    {
+        "title": "Performance tuning - Multiple backend services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/performance/backend-services"
+    },
+    {
+        "title": "Compute Resource Consolidation pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation"
+    },
+    {
+        "title": "Health Endpoint Monitoring pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring"
+    },
+    {
+        "title": "Materialized View pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/materialized-view"
+    },
+    {
+        "title": "Compensating Transaction pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction"
+    },
+    {
+        "title": "Backends for Frontends pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends"
+    },
+    {
+        "title": "Circuit Breaker pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker"
+    },
+    {
+        "title": "Throttling pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/throttling"
+    },
+    {
+        "title": "Queue-Based Load Leveling pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling"
+    },
+    {
+        "title": "Gateway Offloading pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading"
+    },
+    {
+        "title": "Cache-Aside pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside"
+    },
+    {
+        "title": "Rate Limiting pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/rate-limiting-pattern"
+    },
+    {
+        "title": "N-tier application with Apache Cassandra",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/architecture/n-tier-cassandra"
+    },
+    {
+        "title": "Static Content Hosting pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting"
+    },
+    {
+        "title": "Distributed business transaction performance tuning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/performance/distributed-transaction"
+    },
+    {
+        "title": "Strangler Fig pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig"
+    },
+    {
+        "title": "Security considerations for highly sensitive IaaS apps in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/high-security-iaas"
+    },
+    {
+        "title": "Asynchronous Request-Reply pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply"
+    },
+    {
+        "title": "Extend an on-premises network using ExpressRoute",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute"
+    },
+    {
+        "title": "Ambassador pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador"
+    },
+    {
+        "title": "Federated Identity pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/federated-identity"
+    },
+    {
+        "title": "Sharding pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding"
+    },
+    {
+        "title": "Advanced Azure Kubernetes Service (AKS) microservices architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced"
+    },
+    {
+        "title": "Anti-corruption Layer pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer"
+    },
+    {
+        "title": "CQRS pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"
+    },
+    {
+        "title": "Microsoft Entra identity management and access management for AWS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/aws/aws-azure-ad-security"
+    },
+    {
+        "title": "Performance tuning - Event streaming",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/performance/event-streaming"
+    },
+    {
+        "title": "Gateway Aggregation pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation"
+    },
+    {
+        "title": "Sidecar pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar"
+    },
+    {
+        "title": "Serverless event processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/event-processing"
+    },
+    {
+        "title": "Bulkhead pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead"
+    },
+    {
+        "title": "Stream processing with Azure Stream Analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-stream-analytics"
+    },
+    {
+        "title": "Design patterns for microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/patterns"
+    },
+    {
+        "title": "DataOps for the modern data warehouse",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/architecture/dataops-mdw"
+    },
+    {
+        "title": "Big data architecture style",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data"
+    },
+    {
+        "title": "Patterns and implementations for a banking cloud transformation",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/banking/patterns-and-implementations"
+    },
+    {
+        "title": "On-premises data gateway for Azure Logic Apps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/gateway-logic-apps"
+    },
+    {
+        "title": "Run reservoir simulation software on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/reservoir-simulation"
+    },
+    {
+        "title": "Visual search in retail with Azure Cosmos DB",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/retail/visual-search-use-case-overview"
+    },
+    {
+        "title": "Identify microservice boundaries",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/model/microservice-boundaries"
+    },
+    {
+        "title": "Design a microservices architecture",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/"
+    },
+    {
+        "title": "Using tactical DDD to design microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-ddd"
+    },
+    {
+        "title": "Microservices architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/"
+    },
+    {
+        "title": "Power BI data write-back with Power Apps and Power Automate",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/power-bi-write-back-power-apps"
+    },
+    {
+        "title": "Build CNCF projects by using Azure Kubernetes Service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/build-cncf-incubated-graduated-projects-aks"
+    },
+    {
+        "title": "Design a hybrid Domain Name System solution with Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-dns-infra"
+    },
+    {
+        "title": "Event-driven architecture style",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven"
+    },
+    {
+        "title": "Introduction to predictive maintenance in manufacturing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/industries/manufacturing/predictive-maintenance-overview"
+    },
+    {
+        "title": "Optimize administration of SQL Server instances in on-premises and multicloud environments by using Azure Arc",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-arc-sql-server"
+    },
+    {
+        "title": "Data considerations for microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/data-considerations"
+    },
+    {
+        "title": "CI/CD for microservices architectures",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/ci-cd"
+    },
+    {
+        "title": "Identity architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/identity/identity-start-here"
+    },
+    {
+        "title": "Use API gateways in microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/gateway"
+    },
+    {
+        "title": "Big compute architecture style",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-compute"
+    },
+    {
+        "title": "Design APIs for microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/api-design"
+    },
+    {
+        "title": "Disaster recovery for Azure Stack Hub virtual machines",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-vm-disaster-recovery"
+    },
+    {
+        "title": "Monitor hybrid security using Microsoft Defender for Cloud and Microsoft Sentinel",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-security-monitoring"
+    },
+    {
+        "title": "Web-Queue-Worker architecture style",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/web-queue-worker"
+    },
+    {
+        "title": "Threat indicators for cyber threat intelligence in Microsoft Sentinel",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/sentinel-threat-intelligence"
+    },
+    {
+        "title": "Deploy AI and machine learning computing on-premises and to the edge",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/deploy-ai-ml-azure-stack-edge"
+    },
+    {
+        "title": "Design interservice communication for microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/interservice-communication"
+    },
+    {
+        "title": "N-tier architecture style",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier"
+    },
+    {
+        "title": "Microservice architecture style",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices"
+    },
+    {
+        "title": "Big data architectures",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures"
+    },
+    {
+        "title": "Update route tables by using Azure Route Server",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/manage-routing-azure-route-server"
+    },
+    {
+        "title": "Caching guidance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/caching"
+    },
+    {
+        "title": "CDN guidance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/cdn"
+    },
+    {
+        "title": "Multitenant SaaS on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/multi-saas/multitenant-saas"
+    },
+    {
+        "title": "Azure Automation State Configuration",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/state-configuration/state-configuration"
+    },
+    {
+        "title": "Machine Learning operations maturity model",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model"
+    },
+    {
+        "title": "Choose an Azure multiparty computing service",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/multiparty-computing-service"
+    },
+    {
+        "title": "Multicloud solutions with the Serverless Framework",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/serverless-multicloud"
+    },
+    {
+        "title": "Data partitioning guidance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning"
+    },
+    {
+        "title": "Non-relational data and NoSQL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-relational-data"
+    },
+    {
+        "title": "Data partitioning strategies",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies"
+    },
+    {
+        "title": "Analyze news feeds with near real-time analytics using image and natural language processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/news-feed-ingestion-and-near-real-time-analysis"
+    },
+    {
+        "title": "Monitoring and diagnostics guidance",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring"
+    },
+    {
+        "title": "Online analytical processing (OLAP)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-analytical-processing"
+    },
+    {
+        "title": "Databases architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/"
+    },
+    {
+        "title": "High-volume batch transaction processing",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/process-batch-transactions"
+    },
+    {
+        "title": "Build a delta lake to support ad hoc queries in online leisure and travel booking",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/build-data-lake-support-adhoc-queries-online"
+    },
+    {
+        "title": "Serverless apps using Azure Cosmos DB",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/idea/serverless-apps-using-cosmos-db"
+    },
+    {
+        "title": "Design review powered by mixed reality",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/collaborative-design-review-powered-by-mixed-reality"
+    },
+    {
+        "title": "HPC media rendering",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-batch-rendering"
+    },
+    {
+        "title": "HPC media rendering",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-batch-rendering"
+    },
+    {
+        "title": "Archive on-premises data to the cloud",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/backup-archive-on-premises"
+    },
+    {
+        "title": "Add a mobile front end to a legacy app",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/adding-a-modern-web-and-mobile-frontend-to-a-legacy-claims-processing-application"
+    },
+    {
+        "title": "Cross-cloud scaling with Azure Functions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cross-cloud-scaling"
+    },
+    {
+        "title": "Build high availability into your BCDR strategy",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/build-high-availability-into-your-bcdr-strategy"
+    },
+    {
+        "title": "Predictive aircraft engine monitoring",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/aircraft-engine-monitoring-for-predictive-maintenance-in-aerospace"
+    },
+    {
+        "title": "Data science and machine learning with Azure Databricks",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-data-science-machine-learning"
+    },
+    {
+        "title": "Process real-time vehicle data using IoT",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/realtime-analytics-vehicle-iot"
+    },
+    {
+        "title": "HPC system and big-compute solutions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/big-compute-with-azure-batch"
+    },
+    {
+        "title": "Oracle database migration to Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/idea/reference-architecture-for-oracle-database-migration-to-azure"
+    },
+    {
+        "title": "Banking system cloud transformation on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/banking/banking-system-cloud-transformation"
+    },
+    {
+        "title": "Deploy microservices with Azure Container Apps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps"
+    },
+    {
+        "title": "Ingestion, ETL, and stream processing pipelines with Azure Databricks and Delta Lake",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/ingest-etl-stream-with-adb"
+    },
+    {
+        "title": "Project 15 Open Platform IoT sustainability",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/project-15-iot-sustainability"
+    },
+    {
+        "title": "Control IoT devices with a voice assistant app",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/iot-controlling-devices-with-voice-assistant"
+    },
+    {
+        "title": "Azure digital twins builder",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-digital-twins-builder"
+    },
+    {
+        "title": "E-commerce website running in secured App Service Environment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/ecommerce-website-running-in-secured-ase"
+    },
+    {
+        "title": "Serverless web application",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/web-app"
+    },
+    {
+        "title": "Architect scalable e-commerce web app",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/scalable-ecommerce-web-app"
+    },
+    {
+        "title": "Access management of an AKS baseline cluster for a PCI-DSS 3.2.1 (Part 6 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-identity"
+    },
+    {
+        "title": "Refactor mainframe applications with Astadia",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/refactor-mainframe-applications-astadia"
+    },
+    {
+        "title": "IoT monitor and manage loops",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/monitor-manage-loop"
+    },
+    {
+        "title": "IoT measure and control loops",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/measure-control-loop"
+    },
+    {
+        "title": "Choreography pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/choreography"
+    },
+    {
+        "title": "Secure and govern workloads with network-level segmentation",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation"
+    },
+    {
+        "title": "Deploy microservices with Azure Container Apps and Dapr",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr"
+    },
+    {
+        "title": "IoT Edge railroad maintenance and safety system",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/predictive-maintenance/iot-predictive-maintenance"
+    },
+    {
+        "title": "Long-term security log retention with Azure Data Explorer",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/security/security-log-retention-azure-data-explorer"
+    },
+    {
+        "title": "Deploy highly available NVAs",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/guide/nva-ha"
+    },
+    {
+        "title": "Secure a data lakehouse with Azure Synapse Analytics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/secure-data-lakehouse-synapse"
+    },
+    {
+        "title": "Natural language processing technology",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/natural-language-processing"
+    },
+    {
+        "title": "Extract, transform, and load (ETL)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl"
+    },
+    {
+        "title": "Configure networking of an AKS regulated cluster for PCI-DSS 3.2.1 (Part 3 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-network"
+    },
+    {
+        "title": "IoT analyze and optimize loops",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/analyze-optimize-loop"
+    },
+    {
+        "title": "Attestation, authentication, and provisioning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/attestation-provisioning"
+    },
+    {
+        "title": "Virtual WAN architecture optimized for department-specific requirements",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/performance-security-optimized-vwan"
+    },
+    {
+        "title": "Stromasys Charon-SSP Solaris emulator on Azure VMs",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/solaris-azure"
+    },
+    {
+        "title": "Unlock legacy data with Azure Stack",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/unlock-legacy-data"
+    },
+    {
+        "title": "Training and procedural guidance powered by mixed reality",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/training-and-procedural-guidance-powered-by-mixed-reality"
+    },
+    {
+        "title": "High availability in Azure public MEC",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/multi-access-edge-compute-ha"
+    },
+    {
+        "title": "Azure public multi-access edge compute deployment",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/public-multi-access-edge-compute-deployment"
+    },
+    {
+        "title": "Scalable web and mobile applications using Azure Database for MySQL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/scalable-web-and-mobile-applications-using-azure-database-for-mysql"
+    },
+    {
+        "title": "SAP S/4 HANA for Large Instances",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/sap-s4-hana-on-hli-with-ha-and-dr"
+    },
+    {
+        "title": "Transit hub dynamic pub-sub messaging system",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/transit-hub"
+    },
+    {
+        "title": "Serverless application architectures using Event Grid",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/serverless-application-architectures-using-event-grid"
+    },
+    {
+        "title": "Scalable web and mobile applications using Azure Database for PostgreSQL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/scalable-web-and-mobile-applications-using-azure-database-for-postgresql"
+    },
+    {
+        "title": "HIPAA and HITRUST compliant health data AI",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/security-compliance-blueprint-hipaa-hitrust-health-data-ai"
+    },
+    {
+        "title": "Publish internal APIs to external users",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/publish-internal-apis-externally"
+    },
+    {
+        "title": "Real-time asset tracking and management",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-asset-tracking-mgmt-iot-central"
+    },
+    {
+        "title": "Query a data lake or lakehouse by using Azure Synapse serverless",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/synapse-exploratory-data-analytics"
+    },
+    {
+        "title": "Automate Sentinel integration with Azure DevOps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/automate-sentinel-integration"
+    },
+    {
+        "title": "Oil and gas tank level forecasting",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/oil-and-gas-tank-level-forecasting"
+    },
+    {
+        "title": "Predictive insights with vehicle telematics",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/predictive-insights-with-vehicle-telematics"
+    },
+    {
+        "title": "Serverless computing solution for LOB apps",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/onboarding-customers-with-a-cloud-native-serverless-architecture"
+    },
+    {
+        "title": "Computer-aided engineering",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/hpc-saas"
+    },
+    {
+        "title": "Azure Cosmos DB in IoT workloads",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/iot-using-cosmos-db"
+    },
+    {
+        "title": "Migrate IBM mainframe applications to Azure with TmaxSoft OpenFrame",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/migrate-mainframe-apps-with-tmaxsoft-openframe"
+    },
+    {
+        "title": "Move Azure resources across regions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/move-azure-resources-across-regions"
+    },
+    {
+        "title": "Line of business extension",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/lob"
+    },
+    {
+        "title": "Medical data storage solutions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/medical-data-storage"
+    },
+    {
+        "title": "Gaming using Azure Cosmos DB",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/gaming-using-cosmos-db"
+    },
+    {
+        "title": "Highly available SharePoint farm",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm"
+    },
+    {
+        "title": "Hybrid connections",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/hybrid-connectivity"
+    },
+    {
+        "title": "Hybrid HPC in Azure with HPC Pack",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/hybrid-hpc-in-azure-with-hpc-pack"
+    },
+    {
+        "title": "Intelligent apps using Azure Database for PostgreSQL",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databases/idea/intelligent-apps-using-azure-database-for-postgresql"
+    },
+    {
+        "title": "Hybrid identity",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/hybrid-identity"
+    },
+    {
+        "title": "HPC risk analysis template",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/hpc-risk-analysis"
+    },
+    {
+        "title": "Enterprise-scale disaster recovery",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/disaster-recovery-enterprise-scale-dr"
+    },
+    {
+        "title": "SMB disaster recovery with Azure Site Recovery",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/disaster-recovery-smb-azure-site-recovery"
+    },
+    {
+        "title": "SMB disaster recovery with Double-Take DR",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/disaster-recovery-smb-double-take-dr"
+    },
+    {
+        "title": "Data streaming with AKS",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/data-streaming-scenario"
+    },
+    {
+        "title": "Basic enterprise integration on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/enterprise-integration/basic-enterprise-integration"
+    },
+    {
+        "title": "Determine customer lifetime and churn with Azure AI services",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/customer-lifecycle-churn"
+    },
+    {
+        "title": "Multi-region N-tier application",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/multi-region-sql-server"
+    },
+    {
+        "title": "Multiparty computing architecture design",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/blockchain/multiparty-compute"
+    },
+    {
+        "title": "Detect vulnerabilities of an AKS regulated cluster for PCI-DSS 3.2.1 (Part 5 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-malware"
+    },
+    {
+        "title": "Manage configurations for Azure Arc-enabled servers",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-arc-hybrid-config"
+    },
+    {
+        "title": "CI/CD for a serverless application frontend on Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/serverless/guide/serverless-app-cicd-best-practices"
+    },
+    {
+        "title": "Hub-spoke network topology in Azure",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke"
+    },
+    {
+        "title": "Asynchronous messaging options",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging"
+    },
+    {
+        "title": "Minimize coordination",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/minimize-coordination"
+    },
+    {
+        "title": "Architecture summary of an AKS regulated cluster (Part 9 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-summary"
+    },
+    {
+        "title": "Introduction of an AKS regulated cluster for PCI-DSS 3.2.1 (Part 1 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-intro"
+    },
+    {
+        "title": "Secure data in an AKS regulated cluster for PCI-DSS 3.2.1 (Part 4 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-data"
+    },
+    {
+        "title": "External Configuration Store pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store"
+    },
+    {
+        "title": "Container orchestration for microservices",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/design/orchestration"
+    },
+    {
+        "title": "Governance, risk, and compliance for a PCI-DSS 3.2.1 infrastructure (Part 8 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-policy"
+    },
+    {
+        "title": "Monitor operations of an AKS baseline cluster for a PCI-DSS 3.2.1 (Part 7 of 9)",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-monitor"
+    },
+    {
+        "title": "Observability patterns and metrics for performance tuning",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/databricks-monitoring/databricks-observability"
+    },
+    {
+        "title": "Code walkthrough: Serverless application with Functions",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/code"
+    },
+    {
+        "title": "Sequential Convoy pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/sequential-convoy"
+    },
+    {
+        "title": "Microservices architecture on Azure Service Fabric",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/service-fabric"
+    },
+    {
+        "title": "Publisher-Subscriber pattern",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber"
+    }
+]
